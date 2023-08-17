@@ -36,28 +36,88 @@ img {
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
 }
 
-.twelve {
+.numbers .twelve {
   top: 6px;
   left: 50%;
   transform: translateX(-50%);
+  color: royalblue;
 }
 
-.three {
+.numbers .three {
   right: 6px;
   top: 50%;
   transform: translateY(-50%);
+  color: royalblue;
 }
 
-.six {
+.numbers .six {
   bottom: 6px;
   left: 50%;
   transform: translateX(-50%);
+  color: royalblue;
 }
 
-.nine {
+.numbers .nine {
   left: 6px;
   top: 50%;
   transform: translateY(-50%);
+  color: royalblue;
+}
+
+.numbers .one {
+  font-size: 24px;
+  top: 50px;
+  right: 90px;
+  transform: translate(50%, -50%);
+}
+
+.numbers .two {
+  font-size: 24px;
+  top: 105px;
+  right: 40px;
+  transform: translate(50%, -50%);
+}
+
+.numbers .four {
+  font-size: 24px;
+  bottom: 105px;
+  right: 40px;
+  transform: translate(50%, 50%);
+}
+
+.numbers .five {
+  font-size: 24px;
+  bottom: 50px;
+  right: 90px;
+  transform: translate(50%, 50%);
+}
+
+.numbers .seven {
+  font-size: 24px;
+  bottom: 50px;
+  left: 90px;
+  transform: translate(-50%, 50%);
+}
+
+.numbers .eight {
+  font-size: 24px;
+  bottom: 105px;
+  left: 40px;
+  transform: translate(-50%, 50%);
+}
+
+.numbers .ten {
+  font-size: 24px;
+  top: 105px;
+  left: 40px;
+  transform: translate(-50%, -50%);
+}
+
+.numbers .eleven {
+  font-size: 24px;
+  top: 50px;
+  left: 90px;
+  transform: translate(-50%, -50%);
 }
 
 .arrows {
