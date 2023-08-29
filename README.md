@@ -10,6 +10,8 @@ This is the main repo for all the projects
 | 04  | [Month Calender](https://github.com/Shivakarka/60Days60Projects/tree/main/4.%20Month%20Calender)                            | [Live Demo](https://codepen.io/Shivakarka-the-decoder/full/XWoWZgw)
 | 05  | [Rotating Image Gallery](https://github.com/Shivakarka/60Days60Projects/tree/main/5.%20Rotating%20Image%20Gallery)          | [Live Demo](https://codepen.io/Shivakarka-the-decoder/full/PoXwPoR)
 | 06  | [Background Image Scroll](https://github.com/Shivakarka/60Days60Projects/tree/main/6.%20Background%20Image%20Scroll)        | [Live Demo](https://codepen.io/Shivakarka-the-decoder/full/OJrVPKy)
+| 07  | [Expanding Cards](https://github.com/Shivakarka/60Days60Projects/tree/main/7.%20Expanding%20Cards)                          | [Live Demo](https://codepen.io/Shivakarka-the-decoder/full/ZEVWBoK)
+
 
 
 
